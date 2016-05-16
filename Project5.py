@@ -179,7 +179,7 @@ if __name__ == '__main__':
 	#upload_file(filename)
 	insert_data()
 	#insert(csv_data,University)
-run(host='ec2-52-25-214-194.us-west-2.compute.amazonaws.com', port=8080, reloader=True)
+run(host='ec2-52-25-xxx-194.us-west-2.compute.amazonaws.com', port=8080, reloader=True)
 
 
 
