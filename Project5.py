@@ -24,8 +24,8 @@ body = "abc"
 
 
 #uploading to the bucket
-access_key = 'AKIAI7GS2HFELHPQM64Q'
-secret_key = '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'
+access_key = 'XXXXXXXXXXXXXX'
+secret_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 filename= "university.csv"
 
 conn = boto.connect_s3(
