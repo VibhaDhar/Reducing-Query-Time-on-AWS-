@@ -1,8 +1,6 @@
 '''Reference:http://bottlepy.org/docs/dev/tutorial.html'''
 '''Reference:http://stackoverflow.com/questions/28857520/unit-testing-bottle-py-application-that-uses-request-body-results-in-keyerror'''
-'''Name:Vibha Dhar'''
-''''''
-'''Assignment-5'''
+
 
 
 import boto
